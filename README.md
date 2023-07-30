@@ -29,20 +29,6 @@
 
 > <a href="https://www.notion.so/1-2-b05a93e78e80419b9ea5bc03d33b9cd3">Ссылка на проект</a>
 
-> <p>Доступы: </p>
-
-> <p>Jira</p>
-> <p>Логин: sv.zhukov_92@yahoo.com </p>
-> <p>Пароль:  YCxt)k,u)8K=f,^ </p>
-
-> <p>qase.io </p>
-> <p>Логин: latigo@bk.ru </p>
-> <p>Пароль: @CZWz_VVV5Du2uB </p>
-
-> <p>Sitechco </p>
-> <p>Логин: zhukov.sv@mailinator.com </p>
-> <p>Пароль: HnAmuQw!Pc83rt! </p>
-
 <p>Выводы (итоги):</p>
 <ol>
 <li>Итог №1</li>
